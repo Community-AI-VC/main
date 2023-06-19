@@ -6,7 +6,7 @@
 
 The text below was submitted to ChatGPT as our query:
 
-We want to fine tune my own LLM  to determine if a startup will succeed or fail based on its pitch, current market conditions, and historical perspective (from its own training)
+We want to fine tune our own LLM  to determine if a startup will succeed or fail based on its pitch, current market conditions, and historical perspective (from its own training)
 
 We have pitches from startups, many of them, ones that have failed and others that have succeeded. we would like to use GPT4 to produce the supervised training data from evaluating those pitches.
 
