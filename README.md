@@ -75,8 +75,22 @@ All of these steps drastically reduce the memory requirements for fine-tuning, w
 
 </br>
 
-## License
+## Licensing
 
-Data is MIT Licensed (see data/LICENSE.md)
+All Data is MIT Licensed. So far we've identifed sources for the data that would allow us to have 1000+ structured examples to use to generate supervised training data. 
 
-Tools are available to use as browser extensions, http api, or web apps, but are not yet open source licensed. Once we have some sort of community funding or support of some investors (who wish to use AI VC to bring more transparency and equitiable outcomes to their funding process) we will switch to MIT License.
+Tools open sourcing wll await the setup of DAO/community funding and/or backing of VCs who wish to use AI VC to make their funds more transparent and equitable for startups.
+
+### Reasoning:
+
+Data is a continuously updated ephemeral artifact (including complete wipe and starting over, as we iterate) 
+
+But tools carry the burden of maintenance and support and much more work involved in building the tools than generating an instance of the data.
+
+However, 98% of the work in this project is in generating SFT training data of sufficient quality and quantity.  
+
+### Tools Release:
+
+1. In-browser OCR text extractor: WIP with the help of ChatGPT4 
+2. ChatGPT4 labeling tool with llama-accurate token counting: Done.
+3. Free-text-to-json using GPT3.5-turbo (16K) API: not yet started, but will lean on ChatGPT4 with web browsing for this task.
