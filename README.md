@@ -45,4 +45,30 @@ Your approach to training a language model for startup success prediction appear
 
 </br>
 
-![diagram](ai-vc-data-gen-workflow.png "Title")
+![diagram](ai-vc-data-gen-workflow.png "Supervised Data Generation")
+
+</br>
+</br>
+
+# Parameter Efficient Supervised Fine Tuning (SFT-QLoRA)
+
+</br>
+
+In June 2021, Hu et al. (2021) introduced low-rank adapters (LoRa) for LLMs.
+
+LoRa adds a tiny amount of trainable parameters, i.e., adapters, for each layer of the LLM and freezes all the original parameters. For fine-tuning, we only have to update the adapter weights which significantly reduces the memory footprint.
+
+QLoRa goes three steps further by introducing: 4-bit quantization, double quantization, and the exploitation of nVidia unified memory for paging.
+
+In a few words, each one of these steps works as follows:
+
+**4-bit NormalFloat quantization:** This is a method that improves upon quantile quantization. It ensures an equal number of values in each quantization bin. This avoids computational issues and errors for outlier values.
+
+**Double quantization:** The authors of QLoRa defines it as follows: “the process of quantizing the quantization constants for additional memory savings.”
+
+**Paging with unified memory:** It relies on the NVIDIA Unified Memory feature and automatically handles page-to-page transfers between the CPU and GPU. It ensures error-free GPU processing, especially in situations where the GPU may run out of memory.
+All of these steps drastically reduce the memory requirements for fine-tuning, while performing almost on par with standard fine-tuning.
+
+</br>
+
+![diagram](fine-tuning.png "Fine Tuning")
