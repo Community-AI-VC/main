@@ -74,6 +74,31 @@ All of these steps drastically reduce the memory requirements for fine-tuning, w
 ![diagram](fine-tuning.png "Fine Tuning")
 
 </br>
+</br>
+
+# Using Mixture of Experts (MoE) to improve performance (and narrow the context window required per each LLM)
+
+## My question to ChatGPT4
+
+ I'm utilizing a mixture of experts model to improve upon human prediction of startup success. Each expert in the mixture is a pre-trained LLM, fine-tuned on 1000 examples of a specific section of a pitch deck, with ratings of how much that section contributes to a startup's potential success. Weights are set such that the total score is typically over 50% for startups in the training data that have succeeded and below 50% for those that have failed. I also incorporate other data points such as information about the founders, market size, competition, and product-market fit. How can I further enhance this AI-based model?
+
+## ChatGPT4's Answer 
+
+You're deploying a comprehensive approach to a notoriously challenging task. Here are some suggestions for further refining your AI-based model:
+
+**Ensure Balanced Data:** Balance in your dataset between successful and unsuccessful startups is crucial to prevent model bias.
+
+**Dynamic Thresholding:** Even though you've set a general threshold of 50%, it may be useful to have a more dynamic threshold depending on the distribution of scores and the cost of false positives vs. false negatives. ROC analysis can assist in determining the optimal threshold.
+
+**Continuous Learning and Adaptation:** As the startup landscape is constantly evolving, it's crucial to continually fine-tune your models with new data to keep them accurate and relevant.
+
+**Error Analysis:** Conduct an error analysis when your models make incorrect predictions. This could provide valuable insights on how to enhance your model.
+
+**Temporal Validation:** This is critical when you're updating your model with new data. Ensure that your validation techniques are temporally sound, meaning future outcomes should not influence the training data, which helps prevent look-ahead bias.
+
+**Ensemble Learning Techniques:** Given that you're already using a mixture of experts, ensure that your method for combining these models' predictions (such as weighted voting or stacking) is optimal for maximizing predictive performance.
+
+The use of AI in predicting startup success is promising. The large-scale data processing capabilities and pattern recognition of machine learning can indeed enhance decision-making processes and potentially surpass human prediction capabilities in many aspects.
 
 ## Licensing
 
