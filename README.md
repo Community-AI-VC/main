@@ -102,19 +102,27 @@ The use of AI in predicting startup success is promising. The large-scale data p
 
 ## Licensing
 
-All Data is MIT Licensed. So far we've identifed sources for the data that would allow us to have 1000+ structured examples to use to generate supervised training data. 
+### Data
+All Data is MIT Licensed. 
 
-Tools open sourcing wll await the setup of DAO/community funding and/or backing of VCs who wish to use AI VC to make their funds more transparent and equitable for startups.
+So far we've identifed sources for the data that would allow us to have 1000+ structured examples to use to generate supervised training data. 
+
+### Code
+
+Tools open sourcing wll await the setup of DAO/community funding and/or backing of investors.
 
 ### Reasoning:
 
-Data is a continuously updated ephemeral artifact (including complete wipe and starting over, as we iterate) 
+Data is a continuously updated ephemeral artifact (including complete wipe and starting over, as we iterate.) 
 
-But tools carry the burden of maintenance and support and much more work involved in building the tools than generating an instance of the data.
+But tools carry the burden of ab initio creation, maintenance 
+and support, so there is much more work involved that needs to be
+performed on sustainable basis.
 
-However, 98% of the work in this project is in generating SFT training data of sufficient quality and quantity.  
+Having said that, 98% of the work in the current part of the project 
+is in generating SFT training data of sufficient quality and quantity.  
 
-### Tools Release:
+## Tools Release:
 
 1. In-browser OCR text extractor: WIP with the help of ChatGPT4 
 2. ChatGPT4 labeling tool with llama-accurate token counting: Done.
