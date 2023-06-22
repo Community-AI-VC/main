@@ -2,6 +2,10 @@
 
 <br/>
 
+Join our Twitter Community: https://twitter.com/i/communities/1669755222942691328
+
+<br/>
+
 ## Asking ChatGPT4 for help
 
 The text below was submitted to ChatGPT as our query:
