@@ -6,10 +6,13 @@ Join our Twitter Community: https://twitter.com/i/communities/166975522294269132
 
 <br/>
 
-## It Started When I asked ChatGPT for Help 
+## It all started when I asked ChatGPT for feedback ...
 
-The text below was submitted to ChatGPT as our query:
+<br/>
+The text below was submitted to ChatGPT as my question:
+</br>
 
+</br>
 We want to fine tune our own LLM (large language model, the kind behind ChatGPT) to determine if a startup will succeed or fail based on its pitch, current market conditions, and historical perspective (from its own training)
 
 We have pitches from startups, many of them, ones that have failed and others that have succeeded. we would like to use GPT4 to produce the supervised training data from evaluating those pitches.
