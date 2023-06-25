@@ -8,7 +8,7 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-## Project is currently in planning stage
+## Building a task-specific semi-automated feature extraction tool
 
 <br/>
 
@@ -18,7 +18,7 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-All the historical info below has to be extracted from the pitch deck and the internet for each of the pitch decks in the dataset.
+## All the historical info below has to be extracted from the pitch deck and the internet for each of the pitch decks in the dataset.
 
 <br/>
 
