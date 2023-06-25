@@ -1,4 +1,4 @@
-# Building an AI VC
+# Toward a Community-Driven AI-based VC Fund
 
 <br/>
 
