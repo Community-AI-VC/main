@@ -18,6 +18,10 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
+All the historical info below has to be extracted from the internet for each of the pitch decks in the dataset.
+
+<br/>
+
 **Market Size:** Is the market that the startup is targeting large and growing? This information will give you a sense of the startup's potential for scalability and growth.
 
 **Problem & Solution:** What problem is the startup trying to solve, and how unique, effective, and scalable is its proposed solution?
