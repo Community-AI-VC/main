@@ -22,15 +22,15 @@ The tool should work with both image formats (most of the historical startup pit
 
 <br/>
 
-**Market Size:** Is the market that the startup is targeting large and growing? This information will give you a sense of the startup's potential for scalability and growth.
+**Market Size:** Is the market that the startup is targeting large and growing? This information will give us a sense of the startup's potential for scalability and growth.
 
 **Problem & Solution:** What problem is the startup trying to solve, and how unique, effective, and scalable is its proposed solution?
 
-**Product or Service:** How does the product or service work? Is it easily scalable? Is there a strong product-market fit? Understanding this will give you a sense of the startup's potential profitability and growth.
+**Product or Service:** How does the product or service work? Is it easily scalable? Is there a strong product-market fit? Understanding this will give us a sense of the startup's potential profitability and growth.
 
 **Business Model:** How does the startup plan to make money? How will it acquire and retain customers, and what are the costs associated with this?
 
-**Competition:** Who are the startup's competitors, and how does the startup differentiate itself from them? An understanding of the competitive landscape can give you a sense of the startup's potential to capture and maintain market share.
+**Competition:** Who are the startup's competitors, and how does the startup differentiate itself from them? An understanding of the competitive landscape can give us a sense of the startup's potential to capture and maintain market share.
 
 **Financials:** What are the startup's revenue, expenses, and projected growth? This includes understanding their burn rate, gross margin, LTV (lifetime value) to CAC (customer acquisition cost) ratio, and other financial metrics.
 
