@@ -1,6 +1,4 @@
 
-**This license below covers the data folder only (for now, see LICENSE in main folder)**
-
 MIT License
 
 Copyright (c) 2023 Community AI VC
