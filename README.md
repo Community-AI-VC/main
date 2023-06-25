@@ -1,4 +1,4 @@
-# Toward a DAO+AI-based VC Fund
+# Toward a AI-based VC
 
 <br/>
 
