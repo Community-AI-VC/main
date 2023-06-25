@@ -12,9 +12,9 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-*Our initial goal is to build a browser-based tool that would help us create the training dataset.*
+The initial focus of the AI VC project is on the development of a tool to enable semi-automated generation of training data from pitch decks and the internet, for use in both the creation of the training dataset and for pre-processing and augmenting the submitted pitch decks during inferencing. 
 
-*The tool should be able to extract text from images (for slideshare etc) and be able to interactively extract the following **Features** (information related to the startup that need to be captured) from the Internet, with the help of ChatGPT.*
+The tool should work with both image formats (most of the historical startup pitches are only available as images) as well as PDF (everything exports to PDF including Google Slides, PowerPoint, Keynote, etc.)
 
 <br/>
 
