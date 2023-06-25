@@ -6,7 +6,7 @@ Read more about it here: https://github.com/Community-AI-VC/
 
 and join our Twitter Community: https://twitter.com/i/communities/1669755222942691328
 
-
+<br/>
 ## Building a task-specific semi-automated feature extraction tool
 
 <br/>
