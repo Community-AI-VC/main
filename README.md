@@ -22,7 +22,7 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-### The following Features have to be extracted from the pitch deck and the internet for each of the pitch decks in the training dataset as well as for each pitch being submitted to the model for inference. So we're building one tool for both purposes.
+**The following Features have to be extracted from the pitch deck and the internet for each of the pitch decks in the training dataset as well as for each pitch being submitted to the model for inference. So we're building one tool for both purposes.**
 
 <br/>
 
