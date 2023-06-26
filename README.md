@@ -1,6 +1,6 @@
 # Toward a AI-based VC
 
-<br/>
+</br>
 
 Read more about it here: https://github.com/Community-AI-VC/
 
