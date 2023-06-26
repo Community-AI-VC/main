@@ -12,11 +12,7 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-### In the end, with open-source making LLM architectures and training methods a commodity, the only differentiator is the quality and quantity of the data.
-
-<br/>
-
-### In order to have the best quality data, we have to build the right tools for the job.
+### In the end, with open-source making LLM architectures and training methods a commodity, the only differentiator is the quality and quantity of the data. In order to have the best quality data, we have to build the right tools for the job.
 
 <br/>
 
