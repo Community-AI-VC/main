@@ -12,9 +12,17 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-The initial focus of the AI VC project is on the development of a tool to enable semi-automated generation of training data from pitch decks and the internet, for use in both the creation of the training dataset and for pre-processing and augmenting the submitted pitch decks during inferencing. 
+### In the end, with open-source making LLM architectures and training methods a commodity, the only differentiator is the quality and quantity of the data.
 
-The tool should work with both image formats (most of the historical startup pitches are only available as images) as well as PDF (everything exports to PDF including Google Slides, PowerPoint, Keynote, etc.)
+<br/>
+
+### In order to have the best quality data, we have to build the right tools for the job.
+
+<br/>
+
+*The initial focus of the AI VC project is on the development of a tool to enable semi-automated generation of training data from pitch decks and the internet, for use in both the creation of the training dataset and for pre-processing and augmenting the submitted pitch decks during inferencing.* 
+
+*The tool should work with both image formats (most of the historical startup pitches are only available as images) as well as PDF (everything exports to PDF including Google Slides, PowerPoint, Keynote, etc.)*
 
 <br/>
 
