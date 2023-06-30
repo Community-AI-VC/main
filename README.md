@@ -60,36 +60,33 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 ## Progress on the Automated and Augmented Feature Extraction for AI VC training data generation:
 
-"the promotion of our yoyo is projected to cost (TBD)"
+"our product targets the Accelerator and VC fund segments which is projected to be (TBD) by 2025"
 
 AI summary:
 
-Type of marketing: Promotion
-Budget: Further research required
+Target Market: Accelerator and VC funds
+Market Size: Further research required
 
 The text can be written in infinite ways using vague language like:
 
-"to advertise our yoyo, we are asking for time to come up with a budget"
+"our product targets the Accelerator and VC fund segments. We need some time to come up with a an estimate of market size"
 
 AI summary:
 
-Type of marketing: Advertising
-Budget: Further research required
+Target Market: Accelerator and VC funds
+Market Size: Further research required
 
 The text can even be contingent on further thinking or action:
 
 AI summary:
 
-"to advertise our yoyo, we are asking for time to come up with a budget, but we think it's going to be around $20K"
+"our product targets the Accelerator and VC fund segments. We need some time to come up with a an estimate of market size, but we think 
+it's going to be around $200B"
 
-Type of marketing: Advertising
-Budget: $20,000 (with validation required)
+Target Market: Accelerator and VC funds
+Market Size: $200B (with validation required)
 
-This is insane.
-
-There is no way to handle this range of ambiguity with classic NLP. 
-
-*This is only possible with Human-level AI.*
+There is no way to handle this range of ambiguity with classic NLP.  Handling completely arbitrary ways of conveying meaning is only possible with Human-level AI of LLMs.
 
 Where there is further action required (e.g. to figure out the marketing budget), a series of web searches and AI inferences will lead to the estimate or invalidate the pitch if no estimate can be made (i.e. bad pitch and insufficient or non-existent data to make an estimate)
 
