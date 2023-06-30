@@ -62,28 +62,31 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 "our product targets the Accelerator and VC fund segments which is projected to be (TBD) by 2025"
 
-AI summary:
+**AI summary:**
 
 Target Market: Accelerator and VC funds
-Market Size: Further research required
+</br>
+Market Size: Further research required**
 
 The text can be written in infinite ways using vague language like:
 
 "our product targets the Accelerator and VC fund segments. We need some time to come up with a an estimate of market size"
 
-AI summary:
+**AI summary:**
 
 Target Market: Accelerator and VC funds
-Market Size: Further research required
+</br>
+Market Size: Further research required**
 
 The text can even be contingent on further thinking or action:
-
-AI summary:
 
 "our product targets the Accelerator and VC fund segments. We need some time to come up with a an estimate of market size, but we think 
 it's going to be around $200B"
 
+**AI summary:**
+
 Target Market: Accelerator and VC funds
+</br>
 Market Size: $200B (with validation required)
 
 There is no way to handle this range of ambiguity with classic NLP.  Handling completely arbitrary ways of conveying meaning is only possible with Human-level AI of LLMs.
