@@ -56,13 +56,53 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
+# Experiments
+
+## Progress on the Automated and Augmented Feature Extraction for AI VC training data generation:
+
+"the promotion of our yoyo is projected to cost (TBD)"
+
+AI summary:
+
+Type of marketing: Promotion
+Budget: Further research required
+
+The text can be written in infinite ways using vague language like:
+
+"to advertise our yoyo, we are asking for time to come up with a budget"
+
+AI summary:
+
+Type of marketing: Advertising
+Budget: Further research required
+
+The text can even be contingent on further thinking or action:
+
+AI summary:
+
+"to advertise our yoyo, we are asking for time to come up with a budget, but we think it's going to be around $20K"
+
+Type of marketing: Advertising
+Budget: $20,000 (with validation required)
+
+This is insane.
+
+There is no way to handle this range of ambiguity with classic NLP. 
+
+*This is only possible with Human-level AI.*
+
+Where there is further action required (e.g. to figure out the marketing budget), a series of web searches and AI inferences will lead to the estimate or invalidate the pitch if no estimate can be made (i.e. bad pitch and insufficient or non-existent data to make an estimate)
+
+This proves that generating the AI VC dataset can be done economically and at scale using existing AI tech.
+
 ## Licensing
 
 Data is MIT Licensed (see data/LICENSE.md)
 
 Tools are available to use as browser extensions, http api, or web apps, but are not yet open source licensed. 
 
-Once we have some DAO-based community funding and/or support of some investors we will switch to an MIT License.
+Once we have some DAO-based community funding or other forms of support to sustain our work, we will open source the tools and 
+continue to develop them under MIT License.
 
 Tools that we develop during our R&D process that end up being tangential to the project and are thus abandoned by us, will be 
 open sourced under the MIT License. They will have their own separate repository under [[https](https://github.com/Community-AI-VC/)](Community-AI-VC) org.
