@@ -207,7 +207,7 @@ Once we have some DAO-based community funding or other forms of support to susta
 continue to develop them under MIT License.
 
 Tools that we develop during our R&D process that end up being tangential to the project and are thus abandoned by us, will be 
-open sourced under the MIT License. They will have their own separate repository under [[https](https://github.com/Community-AI-VC/)](Community-AI-VC) org.
+open sourced under the MIT License. They will have their own repo under the [Community-AI-VC](https://github.com/Community-AI-VC/) org.
 
 ## Tools Release:
 
