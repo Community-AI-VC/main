@@ -79,10 +79,10 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
   </br>
   ```js
   {
-      "Target Market": "unknown",
+      "Target Market": ["unknown"],
       "Market Size": {
           "ValueInDollars": "unknown",
-          "Comments": "The market size for the platform is projected to be determined (TBD) by 2025."
+          "Comments": "Market size to be determined by 2025"
       }
   }
   ```
@@ -107,18 +107,19 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
   ```js
   {
       "Target Market": [
-          "Startups seeking venture capital funding",
+          "Startups seeking VC funding",
           "Venture capital firms",
           "Angel investors",
           "Private equity firms",
           "Incubators and accelerators",
-          "Entrepreneurs and founders",
           "Financial institutions",
-          "Consulting firms"
+          "Consulting firms specializing in VC funding",
+          "Government agencies supporting entrepreneurship",
+          "Entrepreneurship education and training providers"
       ],
       "Market Size": {
           "ValueInDollars": 200000000000,
-          "Comments": "Estimated market size based on the potential demand for VC funding decision-support solutions"
+          "Comments": "Estimated market size based on user input"
       }
   }
   ```
@@ -146,15 +147,17 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
           "Incubators",
           "Angel investors",
           "Crowdfunding platforms",
-          "Corporate venture capital firms",
+          "Corporate venture capital funds",
           "Government grants and funding programs",
           "Private equity firms",
           "Family offices",
-          "Strategic investors"
+          "Technology transfer offices",
+          "Business development organizations",
+          "Startup competitions and pitch events"
       ],
       "Market Size": {
           "ValueInDollars": "unknown",
-          "Comments": "The market size for accelerators, VC funds, and startup community-funding platforms is currently being estimated."
+          "Comments": "The market size for this target market is currently being estimated."
       }
   }
   ```
@@ -179,22 +182,17 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
   ```js
   {
       "Target Market": [
-          "Startups seeking funding",
-          "Venture capitalists",
-          "Angel investors",
-          "Private equity firms",
-          "Incubators and accelerators",
-          "Entrepreneurs",
-          "Investment banks",
-          "Family offices",
-          "Corporate venture capital firms",
-          "Crowdfunding platforms"
+        "Startups seeking funding", 
+        "Venture capitalists", 
+        "Angel investors", 
+        "Private equity firms"
       ],
       "Market Size": {
-          "ValueInDollars": "unknown",
-          "Comments": "The market size for VC funding platforms will depend on various factors such as the growth of startups, investor interest, and overall economic conditions. It is difficult to determine an exact market size without more specific information."
+        "ValueInDollars": "unknown", 
+        "Comments": "Market size to be determined by 2025"
       }
   }
+  
   ```
 
 ## Licensing
