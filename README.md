@@ -61,74 +61,89 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 ## Progress on the Automated and Augmented Feature Extraction for AI VC training data generation:
 
   **pitch deck text sample 4**
+  ```js
   {
     "role": "user",
     "content": "We are building AI-based VC funding decision-support solution. We need some time to come up with a an estimate of market size, but we think it's going to be around $200B"
   }
-  
+  ```
   
   **Initial AI Response**
+  </br>
   Target Market: VC funding decision-support solution providers
+   </br>
   Market Size: Estimated to be around $200B
   
-  
- **JSON AI Response**
+  **JSON AI Response**
+ ```js
   Target Market: ["Startups", "Venture Capital Firms", "Private Equity Firms", "Angel Investors", "Incubators", "Accelerators"]
   
   Market Size: {"ValueInDollars": 200000000000, "Comments": "Estimated market size based on industry research and analysis"}
-  	
+```
+
   **pitch deck text sample 3**
+  ```js
   {
     "role": "user",
     "content": "Our AI VC platform targets Accelerators, VC funds and startup community-funding platforms. We need some time to come up with a an estimate of the market size"
   }
-  
+  ```
   
   **Initial AI Response**
+  </br>
   Target Market: Accelerators, VC funds, and startup community-funding platforms
+  </br>
   Market Size: The market size is currently being estimated.
   
-  
  **JSON AI Response**
+ ```js
   Target Market: ["Accelerators", "VC funds", "Startup community-funding platforms", "Incubators", "Angel investors", "Crowdfunding platforms"]
-  
+
   Market Size: {"ValueInDollars": "unknown", "Comments": "The market size for these segments can vary greatly depending on the region and industry. It would require further research and analysis to determine the specific market size."}
-  	
+ ```
+
   **pitch deck text sample 1**
+```js
   {
     "role": "user",
     "content": "We are building a platform. The market is projected to be (TBD) by 2025"
   }
-  
-  
+```
+
   **Initial AI Response**
+   </br>
   Target Market: The target market for the platform is not specified in the user input.
-  
+   </br>
   Market Size: The market size for the platform is projected to be determined (TBD) by 2025.
   
   
  **JSON AI Response**
+```js
   Target Market: unknown
   
   Market Size: {"ValueInDollars": "unknown", "Comments": "Market size to be determined by 2025"}
-  	
+```
+
   **pitch deck text sample 2**
+  ```js
   {
     "role": "user",
     "content": "We are building an AI-based VC platform. The market is projected to be (TBD) by 2025"
   }
-  
+  ``` 
   
   **Initial AI Response**
+   </br>
   Target Market: Investors and venture capitalists looking for AI-based investment opportunities.
-  
+   </br>
   Market Size: The market size for AI-based VC platforms is projected to be determined (TBD) by 2025.
   
-  
  **JSON AI Response**
+   ```js
   Target Market: ["Investors", "Venture capitalists", "AI enthusiasts", "Technology-focused funds"]
   
   Market Size: {"ValueInDollars": "unknown", "Comments": "The market size for AI-based VC platforms is projected to be determined (TBD) by 2025."}
+  ```
 
 ## Licensing
 
