@@ -1,6 +1,8 @@
-# Toward a AI-based VC
+# Toward a AI-enabled VC Fund
 
 </br>
+
+We're building an AI for startup pitch/market analysis to support a purely objective, decision-making process, enabling VC funding efficiency & transparency, at scale.
 
 Read more about it here: https://github.com/Community-AI-VC/
 
@@ -8,7 +10,7 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-## Building a task-specific semi-automated feature extraction tool
+## Automated feature extraction for traning data generation
 
 </br>
 
