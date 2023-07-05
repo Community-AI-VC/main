@@ -1,8 +1,8 @@
-# Toward a AI-enabled VC Fund
+# AI-enabled VC
 
 </br>
 
-Building an AI for startup pitch evaluation and dialog-driven pitch shaping, to support startup founders and potential investors, and build our community.
+We're building an AI for startup pitch evaluation and dialog-driven pitch shaping, to support founders, investors, and the startup community.
 
 Read more about it here: https://github.com/Community-AI-VC/
 
