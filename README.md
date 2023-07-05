@@ -2,9 +2,7 @@
 
 </br>
 
-Our goal is to take the BS and inefficiency out of the VC funding process, using AI.
-
-Properly stated, we're building an AI for startup pitch/market analysis to support a purely objective, decision-making process, enabling VC funding efficiency & transparency, at scale.
+Building an AI for startup pitch evaluation and dialog-driven pitch shaping, to support startup founders and potential investors, and build our community.
 
 Read more about it here: https://github.com/Community-AI-VC/
 
