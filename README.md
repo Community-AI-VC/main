@@ -1,4 +1,4 @@
-# AI-enabled VC
+# AI VC
 
 </br>
 
