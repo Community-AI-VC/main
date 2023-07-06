@@ -71,12 +71,6 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
   }
   ```
   
-  Initial AI Response:
-  </br>
-  Target Market: The target market for the platform is not specified in the user input.
-  </br>
-  Market Size: The market size for the platform is projected to be determined (TBD) by 2025.
-  
   JSON AI Response:
   </br>
   ```js
@@ -97,13 +91,7 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
     "content": "We are building AI-based VC funding decision-support solution. We need some time to come up with a an estimate of market size, but we think it's going to be around $200B"
   }
   ```
-  
-  Initial AI Response:
-  </br>
-  Target Market: VC funding decision-support solution
-  </br>
-  Market Size: Estimated to be around $200B
-  
+
   JSON AI Response:
   </br>
   ```js
@@ -135,12 +123,6 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
   }
   ```
 
-  Initial AI Response:
-  </br>
-  Target Market: Accelerators, VC funds, and startup community-funding platforms
-  </br>
-  Market Size: The market size is currently being estimated.
-  
   JSON AI Response:
   </br>
   ```js
@@ -173,12 +155,6 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
   }
   ```
 
-  Initial AI Response:
-  </br>
-  Target Market: VC funding platforms
-  </br>
-  Market Size: TBD (to be determined) by 2025
-  
   JSON AI Response:
   </br>
   ```js
@@ -199,16 +175,6 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 ## Licensing
 
-Data is MIT Licensed (see data/LICENSE.md)
+Fair Source v0.1
 
-Tools are available to use as browser extensions, http api, or web apps, but are not yet open source licensed. 
-
-Once we have some DAO-based community funding or other forms of support to sustain our work, we will open source the tools and 
-continue to develop them under MIT License.
-
-Tools that we develop during our R&D process that end up being tangential to the project and are thus abandoned by us, will be 
-open sourced under the MIT License. They will have their own repo under the [Community-AI-VC](https://github.com/Community-AI-VC/) org.
-
-## Tools Release:
-
-WIP: in-browser slide-to-text convertor and feature extractor
+Read about it here https://twitter.com/marcfawzi/status/1676084293012185088
