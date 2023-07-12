@@ -2,8 +2,6 @@
 
 </br>
 
-We're building an AI for startup pitch evaluation and dialog-driven pitch shaping, to support founders, investors, and the startup community.
-
 Read more about it here: https://github.com/Community-AI-VC/
 
 and join our Twitter Community: https://twitter.com/i/communities/1669755222942691328
