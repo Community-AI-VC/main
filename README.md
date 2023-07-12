@@ -10,7 +10,7 @@ and join our Twitter Community: https://twitter.com/i/communities/16697552229426
 
 <br/>
 
-## Automated feature extraction for traning data generation
+## TOOLS: feature extraction and data generation
 
 </br>
 
